@@ -1,0 +1,5 @@
+# Pricing Indian Used Car Sales with Machine Learning Algorithms
+
+When predicting the price of a used car in the current Indian market, we discovered that the year, car brand, engine size, mileage, and power associated with a given used car were the most telling of price. The model we are proposed gives us approximately 5 percent information gain with a high amount of accuracy in our estimate. Additionally, for future implementation, non-linear models would be better performing than linear models. Cost associated with a given car and the new price equivalent of a given car brand would be helpful for future analysis as well. 
+
+When looking over the next steps associated with this company, I believe that creating or importing a repository of costs associated with purchasing and maintaining a used car would be highly beneficial. Additionally, creating a webservice that shows prices to our users and grades the value of the product being sold would be a great way to maximize transparency with our users. Finally, I would continue to explore other methods to produce a better profit model while maximizing customer satisfaction. 
